@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<title></title>
+</head>
+<body>
 <header>
 <nav class="menu">
 <nav>
@@ -11,7 +14,6 @@
 </ul>
 </nav>
 </header>
-</head>
-<body></body>
+</body>
 <footer></footer>
 </html>
