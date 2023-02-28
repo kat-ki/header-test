@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<header>
+<nav id="navbar">
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About us</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</nav>
+</header>
+</head>
+<body></body>
+<footer></footer>
+</html>
