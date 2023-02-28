@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <header>
-<nav id="navbar">
+<nav class="menu">
 <nav>
 <ul>
 <li><a href="#">Home</a></li>
